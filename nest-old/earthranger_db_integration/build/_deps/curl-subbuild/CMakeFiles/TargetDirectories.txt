@@ -1,3 +1,0 @@
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir

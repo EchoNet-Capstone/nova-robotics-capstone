@@ -1,3 +1,0 @@
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate.dir
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/cpr-subbuild/CMakeFiles/edit_cache.dir
-/home/odroid/CapstoneBuoyProject/earthranger_db_integration/build/_deps/cpr-subbuild/CMakeFiles/rebuild_cache.dir
