@@ -1,0 +1,3 @@
+[submodule "offline_folium"]
+	path = offline_folium
+	url = https://github.com/robintw/offline_folium.git
