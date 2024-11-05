@@ -1,3 +1,6 @@
-[submodule "offline_folium"]
-	path = offline_folium
-	url = https://github.com/robintw/offline_folium.git
+[submodule "nova-nest"]
+	path = nova-nest
+	url = https://github.com/bobjoe400/nova-nest.git
+[submodule "nova-burd"]
+	path = nova-burd
+	url = https://github.com/bobjoe400/nova-burd.git
