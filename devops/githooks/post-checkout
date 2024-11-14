@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#get current branch name
+
+echo ""
+echo "switched to $branch. updating submodules.."
+echo ""
+
+#update the submodules
+git submodule update --init
+git submodule foreach "git checkout main && git pull"
